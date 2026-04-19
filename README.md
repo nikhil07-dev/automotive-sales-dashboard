@@ -1,4 +1,6 @@
 # automotive-sales-dashboard
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
 Power BI dashboard analyzing sales performance, growth trends, and business insights
 
 Automotive Sales Performance Dashboard
